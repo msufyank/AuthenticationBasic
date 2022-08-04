@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "881heXCNT0mnCcQUaLmuAeSGz7Gy81Vx7caA4i6IrTpkaF8Y7e+uzWU0GmWWxJCqs49J1ecFhPplPGMp3RsdEg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects other\\Authentication\\basic\\basic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
